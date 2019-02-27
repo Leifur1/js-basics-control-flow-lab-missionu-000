@@ -16,3 +16,12 @@ function ternaryCheckCity (check) {
     return "No go.";
   }
 }
+
+switch (switchOnCharmFromTip) {
+  case 'generous':
+    charm = "Thank you so much."
+    break;
+  default:
+    
+}
+
