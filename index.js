@@ -2,5 +2,5 @@
 let scruberGreetingForFeet
 
 if (scruberGreetingForFeet < 400) {
-  freeSample = 'This one is on me!'
+  scruberGreetingForFeet = 'This one is on me!'
 }
