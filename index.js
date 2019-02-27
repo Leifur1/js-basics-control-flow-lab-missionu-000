@@ -22,6 +22,5 @@ switch (switchOnCharmFromTip) {
     charm = "Thank you so much."
     break;
   default:
-    
-}
 
+}
